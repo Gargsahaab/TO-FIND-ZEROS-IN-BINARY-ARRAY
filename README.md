@@ -1,5 +1,5 @@
 # hello-world12
-Simple c++ program
+Simple c++ program. find no of zeroes in the array containing 0 and 1 
 
 
 #include<bits/stdc++.h>
