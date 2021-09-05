@@ -2,9 +2,10 @@
 Simple c++ program
 program to find no of zeroes in a array containing 0 or 1
 
+
+
 #include<bits/stdc++.h>
 using namespace std;
-
 int main()
 {
     int i,n;
